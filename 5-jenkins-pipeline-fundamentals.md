@@ -17,4 +17,4 @@
 - Agent scope
     - Set to 'none' at the start and you can ask questions of the user without
       allocating an agent to do so.
-- go.cloudbees.com/training
+- https://go.cloudbees.com/training
