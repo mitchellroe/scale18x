@@ -1,0 +1,20 @@
+# Move Fast Without Breaking Things
+
+- Presentation from Instagram
+- Deploys every 7 minutes
+- Ideas
+    - Make small diffs
+    - Reverting is much easier this way
+    - Troubleshooting breakages is much easier this way
+    - The developers are less likely to get offended or upset about you
+      reverting their tiny change than they are about some gigantic commit
+- SEV
+    - SEV1: Critical issue that warrants public notification and liaison with
+      executive teams
+    - SEV2: Critical system issue actively impacting many customers' ability to
+      use the product
+    - SEV3: Stability or minor customer-impacting issue that require immediate
+      attention from service owners
+- "Accountable does not mean guilty"
+- "This is now your company"
+- "Empower engineers to break things... and empower engineers to fix things."
