@@ -13,3 +13,7 @@
 ### [Hands On With The Open Source Way](6-hands-on-with-the-open-source-way.md)
 
 ### [GitLab Community Day](6-gitlab-community-day.md)
+
+## Saturday, March 7
+
+### [HySDS: Ok, but what the hell is it?](7-hysds.md)

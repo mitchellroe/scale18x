@@ -1,0 +1,30 @@
+#+title: HySDS: Ok, but what the hell is it?
+
+- 3 different sources of documentation
+  - Confluence
+  - Internal Wiki
+  - External Wiki
+- People are looking for
+  - FAQs
+    - Go through the documentation
+    - Every time you have a question, put it in this Google Doc
+    - This can be the basis for your FAQ
+  - Guides
+  - Getting Started
+- Give people tasks like "write this document" rather than "document this
+  feature"
+  - (I guess having an infrastructure)
+- Tagging structure
+  - Tag labels
+    - delete
+    - create_content
+    - unfinished
+    - in_progress
+    - needs_update
+    - ok
+  - Created a landing page listing out all the articles which have those tags
+    (kind of like a dashboard for the different areas)
+- Getting outside contribution
+  - Fixing the internal documentation first by making sure the onboarding docs
+    are up to date
+  - Only then do you bring in outside contributors
