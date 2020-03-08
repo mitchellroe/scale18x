@@ -1,3 +1,4 @@
 #+title: Make Python Great Again
 
-- 
+- [[https://pypi.org/project/pipx/][pipx]]
+- [[https://github.com/pypa/pipenv][pipenv]] 

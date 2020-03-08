@@ -1,0 +1,27 @@
+#+title: Web Assembly
+
+** Fundamentals
+ 
+ - Predictable performance
+ - Portable
+   - NPM
+   - Major browsers
+ - WebAssembly formats
+   - Assembly Script
+   - emscripten
+   - Rust
+ - Uses linear memory
+   - Security
+   - easy to sandbox
+ - WASI (is like the runtime?)
+
+** Advantages
+
+ - Modules are small
+ - Runtimes are fast and use little memory
+ - You can write it once and run it anywhere you have a browser
+   
+** Resources
+
+ - torch2424 on GH
+ - WasmByExample, Language Docs
