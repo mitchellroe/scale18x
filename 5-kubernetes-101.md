@@ -1,2 +1,0 @@
-# Workshop: Kubernetes 101
-
