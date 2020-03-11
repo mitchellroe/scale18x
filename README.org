@@ -17,3 +17,7 @@
  - [[file:7-make-python-great-again.org][Make Python Great Again]]
  - [[file:7-managing-the-kubernetes-contributor-community.org][Managing the Kubernetes Contributor Community]]
  - [[file:7-webassembly.org][The Legend of WebAssembly, and the Missing Link]]
+
+** Sunday, March 8
+
+ - [[file:8-continuous-learning-for-developers.org][Continuous Learning For Developers]]
