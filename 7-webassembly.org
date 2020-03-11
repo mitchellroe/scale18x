@@ -1,4 +1,4 @@
-#+title: Web Assembly
+#+title: The Legend of WebAssembly, and the Missing Link
 
 ** Fundamentals
  
