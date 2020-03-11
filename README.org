@@ -15,5 +15,5 @@
 
  - [[file:7-hysds.org][HySDS: Ok, but what the hell is it?]]
  - [[file:7-make-python-great-again.org][Make Python Great Again]]
- - [[file:7-managing-the-kubernetes-contributor-community.org][Kubernetes]]
+ - [[file:7-managing-the-kubernetes-contributor-community.org][Managing the Kubernetes Contributor Community]]
  - [[file:7-web-assembly.org][Web Assembly]]

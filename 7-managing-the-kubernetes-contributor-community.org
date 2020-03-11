@@ -1,0 +1,3 @@
+#+title: Managing the Kubernetes Contributor Community
+
+- They have extensive tooling for managing a /massive/ Slack instance.
