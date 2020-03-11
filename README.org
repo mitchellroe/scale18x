@@ -9,11 +9,11 @@
 
  - [[file:6-move-fast-without-breaking-things.md][Move Fast Without Breaking Things]]
  - [[file:6-hands-on-with-the-open-source-way.md][Hands On With The Open Source Way]]
- - [[6-gitlab-community-day.md][GitLab Community Day]]
+ - [[6-gitlab-contributor-day.md][GitLab Contributor Day]]
 
 ** Saturday, March 7
 
- - [[7-hysds.md][HySDS: Ok, but what the hell is it?]]
+ - [[file:7-hysds.org][HySDS: Ok, but what the hell is it?]]
  - [[file:7-make-python-great-again.org][Make Python Great Again]]
  - [[file:7-managing-the-kubernetes-contributor-community.org][Kubernetes]]
  - [[file:7-web-assembly.org][Web Assembly]]
