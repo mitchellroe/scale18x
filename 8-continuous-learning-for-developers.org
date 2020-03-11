@@ -1,2 +1,3 @@
 #+title: Continuous Learning for Developers
 
+General overview of learning resources. No notes in particular.
